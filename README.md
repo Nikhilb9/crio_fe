@@ -15,3 +15,14 @@ You may also see any lint errors in the console.
 - The login state does not persist across page reloads.
 - Open multiple window for user login
 - Open single window for admin login
+
+### Users List for testing
+
+| email            | password | role  |
+| ---------------- | -------- | ----- |
+| n@gmail.com      | 12345    | ADMIN |
+| ni@gmail.com     | 12345    | USER  |
+| nik@gmail.com    | 12345    | USER  |
+| nikh@gmail.com   | 12345    | USER  |
+| nikhi@gmail.com  | 12345    | USER  |
+| nikhil@gmail.com | 12345    | USER  |
